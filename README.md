@@ -1,5 +1,5 @@
-Amazon Sales Dataset - Data Cleaning Project
-Objective
+# Amazon Sales Dataset - Data Cleaning Project
+## Objective
 The goal of this project was to clean and prepare the Amazon Sales raw dataset for analysis by handling missing values, duplicates, inconsistent formats, and ensuring data types are correct.
 
 Tools Used
